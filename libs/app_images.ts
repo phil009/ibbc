@@ -14,3 +14,4 @@ export { default as stackBlocksFront }   from "@/public/images/stack-blocks-fron
 export { default as trucksFrontView }    from "@/public/images/trucks-front-view.jpeg";
 export { default as trucksSideView }     from "@/public/images/trucks-side-view.jpeg";
 export { default as cementContainer } from "@/public/images/cement-container.jpeg";
+export { default as residential } from "@/public/images/residenntial-1.jpg";

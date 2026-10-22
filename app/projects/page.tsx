@@ -2,6 +2,7 @@
 
 import HeroSection from "@/components/hero-section";
 import { ArrowIcon } from "@/components/site-layout";
+import { residential } from "@/libs/app_images";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -11,28 +12,28 @@ const projects = [
         title: "Riverside Residences",
         type: "Residential development",
         scope: "Hollow blocks · Cement",
-        image: "",
+        image: residential,
     },
     {
         number: "02",
         title: "Civic Trade Centre",
         type: "Commercial build",
         scope: "Solid blocks · Cement",
-        image: "",
+        image: residential,
     },
     {
         number: "03",
         title: "Northgate Villas",
         type: "Private residences",
         scope: "Hollow blocks · Supply",
-        image: "",
+        image: residential,
     },
     {
         number: "04",
         title: "Meridian Offices",
         type: "Workplace",
         scope: "Blocks · Cement · Delivery",
-        image: "",
+        image: residential,
     },
 ];
 
