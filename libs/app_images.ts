@@ -1,0 +1,16 @@
+export { default as backBlocksSea }      from "@/public/images/back-blocks-sea.jpeg";
+export { default as backBlocksStacked }  from "@/public/images/back-blocks-stacked.jpeg";
+export { default as blockInFrontOffice } from "@/public/images/block-in-front-office.jpeg";
+export { default as blockMachine }       from "@/public/images/block-machine.jpeg";
+export { default as blocksSea3 }         from "@/public/images/blocks-sea-3.jpeg";
+export { default as innerSignFarView }   from "@/public/images/inner-sign-far-view.jpeg";
+export { default as innerSignFront }     from "@/public/images/inner-sign-front.jpeg";
+export { default as roadViewSign }       from "@/public/images/road-view-sign.jpeg";
+export { default as sandPile }           from "@/public/images/sand-pile.jpeg";
+export { default as seaOfBlocks }        from "@/public/images/sea_of_blocks.jpeg";
+export { default as seaOfBlocks2 }       from "@/public/images/sea-of-blocks-2.jpeg";
+export { default as signBackView }       from "@/public/images/sign-back-view.jpeg";
+export { default as stackBlocksFront }   from "@/public/images/stack-blocks-front.jpeg";
+export { default as trucksFrontView }    from "@/public/images/trucks-front-view.jpeg";
+export { default as trucksSideView }     from "@/public/images/trucks-side-view.jpeg";
+export { default as cementContainer } from "@/public/images/cement-container.jpeg";
